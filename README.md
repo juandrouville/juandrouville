@@ -1,6 +1,6 @@
 ### Hola visitante 👋
 <br/>
-<img height="200" src="./FONDO.png" />
+<img height="200" src="./FONDO.png"  align="center"/>
 <br/>
 - Soy Juan Drouville, estoy muy contento que estés acá, interesado en mi perfil.
 Hoy , después de un camino hermoso donde fui buscando mi lugar, desde muy chico empezando como pintor y ahora listo para ganar experiencia en donde yo creo que es la combinación perfecta de lo que quiero ser .
