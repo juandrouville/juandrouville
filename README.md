@@ -1,6 +1,6 @@
 ### Hola visitante 👋
 <br/>
-<img height="700" width="1000" src="./fondo-github.gif"  alignSelf="center"/>
+<img height="500" width="1000" src="./fondo-github.gif"  alignSelf="center"/>
 <br/>
 - Soy Juan Drouville, estoy muy contento que estés acá, interesado en mi perfil.
 Hoy , después de un camino hermoso donde fui buscando mi lugar, desde muy chico empezando como pintor y ahora listo para ganar experiencia en donde yo creo que es la combinación perfecta de lo que quiero ser .
